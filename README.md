@@ -88,9 +88,9 @@ pip install -r requirements.txt
 # 🚀 Running From Source
 
 ```bash
-git clone https://github.com/<username>/SecureSteg.git
+https://github.com/0xfa-ni/Image-Steganogrphy-tool.git
 
-cd SecureSteg
+cd Image-Steganogrphy-tool
 
 pip install -r requirements.txt
 
